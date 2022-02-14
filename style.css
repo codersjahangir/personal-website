@@ -27,3 +27,28 @@ section{
     margin-left: 5%;
     padding: 2%;
 }
+.pink-color{
+    color: #ec4c7a;
+}
+.h2{
+    font-size: 42px;
+    font-weight: 400;
+}
+.half-width p{
+    font-size: 16px;
+    font-weight: 300;
+    color: #777777;
+    margin-bottom: 25px;
+}
+.hire-battom{
+    text-decoration: none;
+    background-color: #ed4b73;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+}
+.middle{
+    margin-top: 100px;
+}
